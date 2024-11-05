@@ -1,0 +1,103 @@
+{
+    "device_name": "Robi S11",
+    "language": "nl",
+    "unit": "metric",
+    "measurements": [
+        {
+            "id": "weight",
+            "name": "Gewicht",
+            "string_in_line": "Gewicht ",
+            "unit": "kg"
+        },
+        {
+            "id": "bmi",
+            "name": "BMI",
+            "string_in_line": "BMI ",
+            "unit": ""
+        },
+        {
+            "id": "fatmass",
+            "name": "Vetmassa",
+            "string_in_line": "Vetmassa ",
+            "unit": "kg"
+        },
+        {
+            "id": "fatpercent",
+            "name": "Lichaamsvet",
+            "string_in_line": "Lichaamsvet ",
+            "unit": "%"
+        },
+        {
+            "id": "musclemass",
+            "name": "Spiermassa",
+            "string_in_line": "Spiermassa ",
+            "unit": "kg"
+        },
+        {
+            "id": "musclespeed",
+            "name": "Spiersnelheid",
+            "string_in_line": "Spiersnelheid ",
+            "unit": "%"
+        },
+        {
+            "id": "skeletonmuscle",
+            "name": "Skeletspier",
+            "string_in_line": "Skeletspier ",
+            "unit": "%"
+        },
+        {
+            "id": "bonemass",
+            "name": "Botmassa",
+            "string_in_line": "Botmassa ",
+            "unit": "kg"
+        },
+        {
+            "id": "watermass",
+            "name": "Watergewicht",
+            "string_in_line": "Watergewicht ",
+            "unit": "kg"
+        },
+        {
+            "id": "bodywater",
+            "name": "Lichaamswater",
+            "string_in_line": "Lichaamswater ",
+            "unit": "%"
+        },
+        {
+            "id": "subcutaneousfat",
+            "name": "Onderhuids vet",
+            "string_in_line": "Onderhuids vet ",
+            "unit": "%"
+        },
+        {
+            "id": "visceralfat",
+            "name": "Visceraal vet",
+            "string_in_line": "Visceraal vet ",
+            "unit": ""
+        },
+        {
+            "id": "bmr",
+            "name": "BMR",
+            "string_in_line": "BMR ",
+            "unit": "kcal"
+        },
+        {
+            "id": "WHR",
+            "name": "WHR",
+            "string_in_line": "WHR ",
+            "unit": "%"
+        },
+        {
+            "id": "proteinmass",
+            "name": "Eiwitmassa",
+            "string_in_line": "Eiwitmassa ",
+            "unit": "kg"
+        },
+        {
+            "id": "proteinpercent",
+            "name": "Eiwit",
+            "string_in_line": "Eiwit ",
+            "unit": "%"
+        }
+    ]
+}
