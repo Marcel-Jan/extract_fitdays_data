@@ -22,6 +22,12 @@
             "unit": "kg"
         },
         {
+            "id": "fatfreemass",
+            "name": "Vetvrij lichaamsgewicht",
+            "string_in_line": "lichaamsgewicht ",
+            "unit": "kg"
+        },
+        {
             "id": "fatpercent",
             "name": "Lichaamsvet",
             "string_in_line": "Lichaamsvet ",
@@ -80,6 +86,12 @@
             "name": "BMR",
             "string_in_line": "BMR ",
             "unit": "kcal"
+        },
+        {
+            "id": "lichaamsleeftijd",
+            "name": "Lichaamsleeftijd",
+            "string_in_line": "Lichaamsleeftijd ",
+            "unit": ""
         },
         {
             "id": "WHR",
