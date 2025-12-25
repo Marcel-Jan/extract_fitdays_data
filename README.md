@@ -12,3 +12,6 @@ database, where I can query the data to my hearts content.
 ## Language
 This solution works with the Dutch version of the Fitdays app, which produces jpgs with Dutch language.
 For another language you'll need to change the names of fields etc.
+
+## Locations
+I also use my own locations for where the jpgs are Airdropped to and where I want to move the jpgs to for backups.
