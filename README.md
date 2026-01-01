@@ -15,3 +15,6 @@ For another language you'll need to change the names of fields etc.
 
 ## Locations
 I also use my own locations for where the jpgs are Airdropped to and where I want to move the jpgs to for backups.
+
+
+![Example of an image that the Fitdays app shares](fitdays_image_share_example.jpeg)
