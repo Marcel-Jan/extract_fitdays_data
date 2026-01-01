@@ -13,8 +13,10 @@ database, where I can query the data to my hearts content.
 This solution works with the Dutch version of the Fitdays app, which produces jpgs with Dutch language.
 For another language you'll need to change the names of fields etc.
 
+If you have a version that produces files in a different language, let me know. Give me an example and I can see what I can do.
+
+
 ## Locations
 I also use my own locations for where the jpgs are Airdropped to and where I want to move the jpgs to for backups.
-
 
 ![Example of an image that the Fitdays app shares](fitdays_image_share_example.jpeg)
